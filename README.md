@@ -61,13 +61,6 @@ This is my basic intro, feel free to connect with me, we can build a great team 
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&color=green)](https://www.upwork.com/freelancers/~015ea0aefbdec4941f)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/FaizanShergill)
 
-<br>
- <img width="1289" alt="Screenshot 2024-06-05 at 5 50 31 PM" src="https://github.com/Flash91FS/Flash91FS/assets/15036751/a18a194c-9421-42fd-8d42-8b04d37def6b">
-<br>
-<br>
-<img width="1056" alt="Screenshot 2024-06-05 at 6 33 00 PM" src="https://github.com/Flash91FS/Flash91FS/assets/15036751/89a72b47-b0bc-4a23-9ef7-dc2d4b94ff8e">
-<br>
-<br>
 
 
 <hr>
