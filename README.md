@@ -9,7 +9,7 @@ This is my basic intro, feel free to connect with me, we can build a great team 
 
 <hr>
 
-<b> 🛠️ Tech Stack:</b>
+### 🛠️ Tech Stack:
 
 
  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -47,11 +47,8 @@ This is my basic intro, feel free to connect with me, we can build a great team 
 
 ### 🌐 Reach out to me:
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-shergill-bb2a5b57) 
-
-
-
-
 
 
 <hr>
